@@ -11,6 +11,7 @@ baca2 literatur terkait:
 
 2. Ayu
 - blok kodingan buat infrared (deteksi jarum suntik, mengaktifkan UV)
+
 Kebutuhan komponen: kontroler, sensor infrared, mini UV lamp sterilizer, jumper, breadboard untuk uji coba, protoboard untuk implementasi, solder+timah
 
 3. Arini
